@@ -245,3 +245,5 @@
 			 size = window.innerWidth;
 		}));
 	}
+
+	console.log("Hello world!");
